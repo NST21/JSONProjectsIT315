@@ -5,49 +5,49 @@
       "City": "Baltimore",
       "State": "Maryland",
       "other": "Young and Swift Squad. Great Offense that focuses on passing and speed ",
-      "logo": "ram.jpg"
+      "logo": "https://raw.githubusercontent.com/NST21/JSONProjectsIT315/master/ram.jpg"
     },
     {
       "TeamName": "Dogs",
       "City": "Richmond",
       "State": "Virginia",
       "other": "Veteran led team and have heavy defensive presence",
-      "logo": "dog.jpg"
+      "logo": "https://raw.githubusercontent.com/NST21/JSONProjectsIT315/master/dog.jpg"
     },
     {
       "TeamName": "Cobras",
       "City": "Houston",
       "State": "Texas",
       "other": "Well-Rounded and Balanced Team in offense & defense",
-      "logo": "snake.jpg"
+      "logo": "https://raw.githubusercontent.com/NST21/JSONProjectsIT315/master/snake.jpg"
     },
     {
       "TeamName": "Ducks",
       "City": "Miami",
       "State": "Florida",
       "other": "Upcoming flexible squad with an array of multi-postional players",
-      "logo": "duck.jpg"
+      "logo": "https://raw.githubusercontent.com/NST21/JSONProjectsIT315/master/duck.jpg"
     },
     {
       "TeamName": "Wolves",
       "City": "San Jose",
       "State": "California",
       "other": "Great team that contains an elite offense and decent defense",
-      "logo": "wolve.jpg"
+      "logo": "https://raw.githubusercontent.com/NST21/JSONProjectsIT315/master/wolve.jpg"
     },
     {
       "TeamName": "Lions",
       "City": "Alexandria",
       "State": "Virginia",
       "other": "One ofthe fiercest teams that have fast & strong offense and elite defense",
-      "logo": "lion.jpg"
+      "logo": "https://raw.githubusercontent.com/NST21/JSONProjectsIT315/master/lion.jpg"
     },
     {
       "TeamName": "Robots",
       "City": "Fairfax",
       "State": "Virginia",
       "other": "Developing squad that currently have an average offense and improving defense",
-      "logo": "robot.jpg"
+      "logo": "https://raw.githubusercontent.com/NST21/JSONProjectsIT315/master/robot.jpg"
     }
   ]
 }
